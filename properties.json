@@ -3,6 +3,6 @@
     "track": "backend",
     "email": "matt.aluya@gmail.com",
     "githubUsername": "m-aluya",
-    "deployedAppURL": "",
+    "deployedAppURL": "https://discretematt.herokuapp.com",
     "explainer": "A RESTful API to calculate the age of a person based on their date of birth."
 }
