@@ -1,8 +1,8 @@
 {
-    "name": "",
+    "name": "Matthew Aluya",
     "track": "backend",
-    "email": "",
-    "githubUsername": "",
+    "email": "matt.aluya@gmail.com",
+    "githubUsername": "m-aluya",
     "deployedAppURL": "",
-    "explainer": ""
+    "explainer": "A RESTful API to calculate the age of a person based on their date of birth."
 }
