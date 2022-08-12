@@ -3,6 +3,6 @@
     "track": "backend",
     "email": "matt.aluya@gmail.com",
     "githubUsername": "m-aluya",
-    "deployedAppURL": "https://discretematt.herokuapp.com",
+    "deployedAppURL": "https://orca-app-3nf25.ondigitalocean.app",
     "explainer": "A RESTful API to calculate the age of a person based on their date of birth."
 }
