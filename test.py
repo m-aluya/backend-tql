@@ -1,6 +1,6 @@
 import requests
 from concurrent.futures import ThreadPoolExecutor
-BASE = "http://127.0.0.1:5000"
+BASE = "https://discretematt.herokuapp.com"
 def get_url(url):
     return requests.get(url)
 with ThreadPoolExecutor(max_workers=50) as pool:
