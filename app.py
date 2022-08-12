@@ -19,7 +19,8 @@ def limiter():
     return _limiter
 
 class DateOfBirth(Resource):
-    decorators = [limiter().limit("3/second")]
+    decorators = [limiter().limit("12/second"), METHODS=['GET'] ]
+  
     def get(self):
         rdob = reqparse.request.args.get('dob')
         format = '%Y-%m-%d'
